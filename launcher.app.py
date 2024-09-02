@@ -1,0 +1,6 @@
+import os
+
+# Ejecuta el script principal de la aplicación con Streamlit
+if __name__ == "__main__":
+    os.system("streamlit run app.py")
+
